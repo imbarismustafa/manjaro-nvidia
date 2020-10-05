@@ -32,6 +32,7 @@ Open Optimus Manager and apply the following settings:
 Open NVIDIA X Server Settings and apply the following settings:
 - OpenGL Settings -> Image Settings: High Performance
 - PowerMizer -> Preferred Mode: Prefer Maximum Performance
+Set CPU on Performance Mode:  `sudo echo performance | tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor`
 
 Reboot
 
