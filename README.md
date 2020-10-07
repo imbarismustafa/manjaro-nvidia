@@ -1,4 +1,4 @@
-#### Nvidia Graphics Driver Installation on Manjaro
+#### Nvidia Graphics Driver Installation Documentation on Manjaro
 
 `sudo pacman -S yay`
 
