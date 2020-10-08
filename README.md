@@ -35,8 +35,7 @@ Open NVIDIA X Server Settings and apply the following settings:
 
 Set CPU on Performance Mode:  `sudo echo performance | tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor`
 
-Reboot
-
+Restart
 
 
 
